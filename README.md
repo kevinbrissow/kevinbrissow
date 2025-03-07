@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Hello, World! 🚀, sou Kevin Brissow, <code>Desenvolvedor Full Stack</code>, tenho 25 anos, Bacharel em Ciência da Computação e atualmente cursando Pós-Graduação em Inteligência Artificial e Machine Learning.</p>
+
 ###
 
 <h2 align="left">Sobre</h2>
